@@ -264,7 +264,8 @@ app.get('/', (req, res) => {
       <div class="container">
         <div class="header">
           <h1>🚀 ${APP_NAME}</h1>
-          <p>웹 애플리케이션 - TodoList, 연락처 폼</p>
+          <p>20201088 - 이해원</p>
+          <p>돈까스 먹고싶다</p>
         </div>
 
         <div class="tabs">
